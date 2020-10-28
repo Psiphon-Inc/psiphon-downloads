@@ -4,20 +4,20 @@ Newest Version Avaliable for Download Here
 
 
 **Windows 版本 | For Windows**
-- 版本支持 | Support Information: **Windows 7+**
+- 系统要求 | System Requirement: **Windows 7+**
 - 下载地址 | Download Link:
   - [Github下载 | Download from Github](https://github.com/Psiphon-Inc/psiphon-downloads/blob/master/Downloads/PsiphonWindows.exe?raw=true)
   - [官网下载 | Download from Official Website](https://s3.amazonaws.com/psiphon/web/jvnk-2cyd-mp4h/psiphon3.exe)
 
 **Android 版本 | For Android**
-- 版本支持 | Support Information: **Android 4.0+**
+- 系统要求 | System Requirement: **Android 4.0+**
 - 下载地址 | Download Link:
   - [Github下载 | Download from Github](https://github.com/Psiphon-Inc/psiphon-downloads/blob/master/Downloads/PsiphonAndroid.apk?raw=true)
   - [官网下载 | Download from Official Website](https://s3.amazonaws.com/psiphon/web/jvnk-2cyd-mp4h/PsiphonAndroid.apk) 
   - [Google Play | Download from Google Play](https://play.google.com/store/apps/details?id=com.psiphon3)
 
 **iOS 版本 | For iOS** 
-- 版本支持 | Support Information: **iOS 10.2+**
+- 系统要求 | System Requirement: **iOS 10.2+**
 - 下载地址 | Download Link:
   - [iOS App Store](https://apps.apple.com/us/app/psiphon/id1276263909)
   - Download Method (_Coming Soon_)
